@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Vitória Ceccato
 
-🎯 Data Analyst focused on SQL & Business Intelligence  
-📊 Turning data into strategic insights  
-🌎 Open to remote opportunities  
+🎯 Data Analyst | SQL | Power BI  
+📊 Transforming data into business decisions  
+🌎 Open to remote opportunities (Brazil & International)
 
 ---
 
 ## 🚀 About Me
 
-I am transitioning from Junior to Mid-level in Data/BI, with strong focus on:
+I am a Data Analyst with strong focus on SQL and Business Intelligence, continuously improving technical depth and business impact.
 
 - SQL for data analysis
 - Power BI dashboards
@@ -30,8 +30,8 @@ SQL | Power BI | DAX | Excel | Git | GitHub
 
 ## 📂 Featured Projects
 
-🔹 SQL Sales Analysis (Coming Soon)  
-🔹 Power BI Business Dashboard (Coming Soon)  
+🔹 SQL Sales Analysis (in progress)  
+🔹 Power BI Business Dashboard (in progress)
 
 ---
 
