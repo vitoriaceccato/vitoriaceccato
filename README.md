@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm Vitória Ceccato
 
-<!--
-**vitoriaceccato/vitoriaceccato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst focused on SQL & Business Intelligence  
+📊 Turning data into strategic insights  
+🌎 Open to remote opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am transitioning from Junior to Mid-level in Data/BI, with strong focus on:
+
+- SQL for data analysis
+- Power BI dashboards
+- Data modeling fundamentals
+- Business-driven insights
+
+Currently improving:
+- Advanced DAX
+- Data modeling best practices
+- Statistical foundations
+
+---
+
+## 🛠 Tech Stack
+
+SQL | Power BI | DAX | Excel | Git | GitHub  
+
+---
+
+## 📂 Featured Projects
+
+🔹 SQL Sales Analysis (Coming Soon)  
+🔹 Power BI Business Dashboard (Coming Soon)  
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/vitoriaceccato/
