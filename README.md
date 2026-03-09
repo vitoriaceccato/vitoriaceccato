@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hi there 👋 I'm Vitória Ceccato
 
 🎯 Data Analyst | SQL | Power BI  
