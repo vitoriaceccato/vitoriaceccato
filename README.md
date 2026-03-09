@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Vitória Ceccato
 
-🎯 Power BI | SQL | Data Analyst  
+🎯 Data Analyst | Power BI | SQL  
 
 📊 Transforming data into business decisions  
 
