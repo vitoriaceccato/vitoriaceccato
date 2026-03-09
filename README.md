@@ -7,6 +7,7 @@
 📊 Transforming data into business decisions  
 
 🌍 Open to remote opportunities (Brazil & International)
+
 ---
 
 ## 🚀 About Me
