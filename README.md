@@ -2,10 +2,11 @@
 
 # Hi there 👋 I'm Vitória Ceccato
 
-🎯 Power BI | SQL | Data Analyst
-📊 Transforming data into business decisions  
-🌎 Open to remote opportunities (Brazil & International)
+🎯 Power BI | SQL | Data Analyst  
 
+📊 Transforming data into business decisions  
+
+🌍 Open to remote opportunities (Brazil & International)
 ---
 
 ## 🚀 About Me
