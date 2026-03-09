@@ -34,8 +34,16 @@ SQL | Power BI | DAX | Excel | Git | GitHub
 
 ## 📂 Featured Projects
 
-🔹 SQL Sales Analysis (in progress)  
-🔹 Power BI Business Dashboard (in progress)
+### 📊 Olist Logistics Delay Analysis
+
+![Power BI Dashboard](dashboard_overview.png)
+
+- Investigated structural drivers of delivery delays in Brazil’s Olist marketplace
+- Route-level analysis revealed transport stage as the main logistics bottleneck
+- Interstate routes increase extreme-delay probability by ~9x
+- Developed a data-driven framework to prioritize high-impact delivery routes
+- Tools: Power BI • SQL • Logistic Regression
+- Business impact: identifies where logistics teams should focus resources to reduce delivery delays
 
 ---
 
