@@ -36,7 +36,7 @@ SQL | Power BI | DAX | Excel | Git | GitHub
 
 ### 📊 Olist Logistics Delay Analysis
 
-![Dashboard Overview](images/dashboard_cover.png)
+![Dashboard Overview](dashboard_overview.png)
 
 - Investigated structural drivers of delivery delays in Brazil’s Olist marketplace
 - Route-level analysis revealed transport stage as the main logistics bottleneck
