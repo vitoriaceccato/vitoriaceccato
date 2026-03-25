@@ -45,6 +45,8 @@ SQL | Power BI | DAX | Excel | Git | GitHub
 - Tools: Power BI • SQL • Logistic Regression
 - Business impact: identifies where logistics teams should focus resources to reduce delivery delays
 
+---
+
 ### 📊 Manufacturing Operational Performance Analysis
 
 <img width="721" height="403" alt="dashboard_overview" src="https://github.com/vitoriaceccato/cost-of-poor-quality-operational-analytics/blob/main/images/dashboard_overview.png" />
