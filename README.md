@@ -45,6 +45,18 @@ SQL | Power BI | DAX | Excel | Git | GitHub
 - Tools: Power BI • SQL • Logistic Regression
 - Business impact: identifies where logistics teams should focus resources to reduce delivery delays
 
+### 📊 Manufacturing Operational Performance Analysis
+
+<img width="721" height="403" alt="dashboard_overview" src="https://github.com/user-attachments/assets/49775ed8-7be4-4a32-8149-c6896a60ed9d" />
+
+- Analyzed structural drivers of manufacturing inefficiency across production quality, downtime and lead time performance
+- Identified Cost of Poor Quality concentration in specific products driven by scrap and rework
+- Process-level diagnostics revealed Machining & Finishing as the main operational bottleneck
+- Explored the relationship between downtime variability and increased production lead time
+- Developed an executive analytics dashboard to support operational prioritization and continuous improvement initiatives
+- Tools: Power BI • Dimensional Modeling • KPI Design • Operational Analytics
+- Business impact: enables manufacturing teams to target critical processes and reduce quality-related losses
+
 ---
 
 ## 📫 Contact
