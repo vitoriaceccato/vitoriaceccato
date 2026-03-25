@@ -36,7 +36,7 @@ SQL | Power BI | DAX | Excel | Git | GitHub
 
 ### 📊 Olist Logistics Delay Analysis
 
-![Dashboard Overview](dashboard_overview.png)
+<img width="721" height="403" alt="dashboard_overview" src="https://github.com/vitoriaceccato/olist-logistics-analysis/blob/main/images/dashboard_overview.png" />
 
 - Investigated structural drivers of delivery delays in Brazil’s Olist marketplace
 - Route-level analysis revealed transport stage as the main logistics bottleneck
@@ -47,7 +47,7 @@ SQL | Power BI | DAX | Excel | Git | GitHub
 
 ### 📊 Manufacturing Operational Performance Analysis
 
-<img width="721" height="403" alt="dashboard_overview" src="https://github.com/user-attachments/assets/49775ed8-7be4-4a32-8149-c6896a60ed9d" />
+<img width="721" height="403" alt="dashboard_overview" src="https://github.com/vitoriaceccato/cost-of-poor-quality-operational-analytics/blob/main/images/dashboard_overview.png" />
 
 - Analyzed structural drivers of manufacturing inefficiency across production quality, downtime and lead time performance
 - Identified Cost of Poor Quality concentration in specific products driven by scrap and rework
